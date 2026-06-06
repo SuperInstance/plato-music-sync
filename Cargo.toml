@@ -1,0 +1,10 @@
+[package]
+name = "plato-music-sync"
+version = "0.1.0"
+edition = "2021"
+description = "Music cognition patterns for synchronizing Plato rooms — polyrhythmic scheduling, groove tracking, counterpoint analysis, cadence detection, and tempo maps"
+license = "MIT"
+
+[dependencies]
+
+[dev-dependencies]
